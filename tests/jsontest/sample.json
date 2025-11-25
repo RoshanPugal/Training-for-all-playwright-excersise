@@ -1,0 +1,18 @@
+{
+    "users":[
+        {
+            "id":1,
+            "details":{
+                "username":"Roshan",
+                "Role":"Software engg"
+            }
+        },
+        {
+            "id":2,
+            "details":{
+                "username":"Pugal",
+                "Role":"Software Test engg"
+            }
+        }
+    ]
+}
